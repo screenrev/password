@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "password",
+  "version": "0.0.0",
+  "description": "Password generation and verification",
+  "main": "password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/screenrev/password"
+  },
+  "author": "glen@screenrev.com",
+  "license": "BSD v2",
+  "bugs": {
+    "url": "https://github.com/screenrev/password/issues"
+  },
+  "homepage": "https://github.com/screenrev/password"
+}
